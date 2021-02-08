@@ -20,5 +20,8 @@ Extant policies are 'general' in nature as they apply equally to firms. For exam
 # Consider the following data tables available via London Datastore:
 
 Gender Pay Gaps for London Employers (2018-19)
+
 Gender Pay Gaps for Employers in the UK (2018-19)
+
+
 Is there any evidence to introduce customized policies to cope with gender pay gap? If so, which industries/places customized policies should focus on?
