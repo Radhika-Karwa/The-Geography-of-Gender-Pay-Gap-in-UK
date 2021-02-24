@@ -2,7 +2,7 @@
 # Introduction
 Labour markets, as any other social formations, exhibit stratification. This means workers (sharply) differ in terms of salary. Stratification can originate from several sources: ethnicity, religious beliefs, age, and gender.
 
-This case study focuses on one specific source of stratification, namely, workers' gender. Particularly, the attention revolves around gender pay gap among large, London-based companies.
+This case study focuses on one specific source of stratification, namely, workers' gender. Particularly, the attention revolves around gender pay gap among large, UK-based companies.
 
 By analyzing a real-world datasets comprising firm-level data, you will contribute to inform the formulation of economic, organizational, and social policies that tackle on the problem of stratification in labour markets.
 
